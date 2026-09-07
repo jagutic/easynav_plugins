@@ -1,0 +1,11 @@
+<map id="ObstacleFilter" name="ObstacleFilter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="179,192,281,218"/>
+<area shape="rect" id="Node000002" href="$classeasynav_1_1octomap_1_1OctomapFilter.html" title=" " alt="" coords="178,117,282,143"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,158,232,192,227,192,227,158"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,180,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="112,57,124,75,140,91,161,104,184,114,182,119,159,109,137,95,120,79,107,61"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="203,13,256,38"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="232,54,232,116,227,116,227,54"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="326,13,371,38"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="344,55,335,76,321,95,302,109,281,119,279,114,299,104,317,91,331,73,339,52"/>
+</map>

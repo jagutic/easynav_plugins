@@ -1,0 +1,9 @@
+<map id="NavMapFilter" name="NavMapFilter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="180,117,280,143"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,180,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,57,124,75,140,91,161,104,184,114,182,119,159,109,137,95,120,79,107,61"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="203,13,256,38"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="232,54,232,116,227,116,227,54"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="326,13,371,38"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="344,55,335,76,321,95,302,109,281,119,279,114,299,104,317,91,331,73,339,52"/>
+</map>
